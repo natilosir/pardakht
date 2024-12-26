@@ -1,0 +1,18 @@
+{
+  "name": "natilosir/pardakht",
+  "description": "A simple PHP library for payment Gateway.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Natilos.ir",
+      "email": "info@natilos.ir"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Natilosir\\pardakht\\": "src/"
+    }
+  },
+  "require": {}
+}
