@@ -14,5 +14,7 @@
       "Natilosir\\pardakht\\": "src/"
     }
   },
-  "require": {}
+  "require": {
+        "natilosir/orm": "^1.0"
+    }
 }
